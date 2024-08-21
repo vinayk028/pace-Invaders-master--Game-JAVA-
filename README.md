@@ -1,2 +1,2 @@
-# pace-Invaders-master--Game-JAVA-
+# Space-Invaders-master--Game-JAVA-
 Java
